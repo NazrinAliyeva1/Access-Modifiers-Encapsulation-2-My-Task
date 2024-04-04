@@ -1,0 +1,14 @@
+C:\Users\99455\source\repos\hjsd\hjsd\bin\Debug\net6.0\hjsd.exe
+C:\Users\99455\source\repos\hjsd\hjsd\bin\Debug\net6.0\hjsd.deps.json
+C:\Users\99455\source\repos\hjsd\hjsd\bin\Debug\net6.0\hjsd.runtimeconfig.json
+C:\Users\99455\source\repos\hjsd\hjsd\bin\Debug\net6.0\hjsd.dll
+C:\Users\99455\source\repos\hjsd\hjsd\bin\Debug\net6.0\hjsd.pdb
+C:\Users\99455\source\repos\hjsd\hjsd\obj\Debug\net6.0\hjsd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\hjsd\hjsd\obj\Debug\net6.0\hjsd.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\hjsd\hjsd\obj\Debug\net6.0\hjsd.AssemblyInfo.cs
+C:\Users\99455\source\repos\hjsd\hjsd\obj\Debug\net6.0\hjsd.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\hjsd\hjsd\obj\Debug\net6.0\hjsd.dll
+C:\Users\99455\source\repos\hjsd\hjsd\obj\Debug\net6.0\refint\hjsd.dll
+C:\Users\99455\source\repos\hjsd\hjsd\obj\Debug\net6.0\hjsd.pdb
+C:\Users\99455\source\repos\hjsd\hjsd\obj\Debug\net6.0\hjsd.genruntimeconfig.cache
+C:\Users\99455\source\repos\hjsd\hjsd\obj\Debug\net6.0\ref\hjsd.dll
